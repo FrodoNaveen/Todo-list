@@ -58,7 +58,6 @@ function App() {
 
   return (
     <div>
-      <h1>Todo</h1>
       <div className="nav1">
         <p className="nav1p">Log in</p>
         <p className="navlist">+NewList</p>
