@@ -96,7 +96,7 @@ function App() {
                 className="delbtn"
                 type="button"
               >
-                Delete
+                delete
               </button>
             </li>
           );
